@@ -1,0 +1,103 @@
+form {
+
+    margin: 0 auto;
+    width: 700px;
+    padding: 2em;
+    border: 1px solid rgb(45, 60, 88);
+    border-radius: 1em;
+    
+    
+    }
+
+    input{
+    width: 300px;
+    
+    }
+    
+    button{
+        text-align: center;
+        margin-top: 2%;
+    }
+    
+    a{
+        text-align: center;
+        margin-top: 2%;
+    }
+
+    table {font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+        font-size: 12px;    
+        margin: 45px;    
+        width: 800px; 
+        text-align: center;    
+        border-collapse: collapse; 
+        margin: 0 auto;
+        padding: 1em;
+    border: 1px solid rgb(45, 60, 88);
+    border-radius: 1em;}
+    
+    th {
+        font-size: 13px;     
+        font-weight: normal;     
+        padding: 8px;     
+        background: rgb(28, 63, 104);
+        border-top: 4px solid #0d163d;    
+        border-bottom: 1px solid #fff; 
+        color: #fff; }
+    
+    td { 
+        padding: 8px;     
+        background: #e8edff;     
+        border-bottom: 1px solid #fff;
+        color: rgb(0, 0, 0);    
+        border-top: 1px solid transparent; }
+    
+    div{
+            margin-top: 2%;
+            text-align: center;
+             padding: 1em;
+    }
+
+#Mostrarmensajes{
+    background-color: white;
+    width: auto;
+    height: 200px;
+    overflow: scroll;
+    margin-top: 10px;
+    
+    
+}
+.chat{
+    width: 800px;
+    padding: 1em;
+    border: 1px solid rgb(45, 60, 88);
+    border-radius: 1em;
+    margin-bottom: 5em;
+    margin-left: 7em
+
+}
+
+.email{
+    color:blue;
+    font-weight: bold;
+
+}
+.hora{
+color: brown;
+}
+
+.message{
+font-style: italic;
+color:green;
+}
+
+
+.container{
+    text-align: center;
+    margin-top: 2%;
+    padding: 1em;
+}
+
+input{
+  margin: 10px
+     
+}
